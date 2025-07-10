@@ -1,0 +1,12 @@
+```
+python-telegram-bot>=20.0
+openai
+requests
+python-dotenv
+supabase
+aiohttp
+emoji
+apscheduler
+uuid
+shortuuid
+```
