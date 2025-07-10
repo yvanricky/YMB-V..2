@@ -1,0 +1,25 @@
+```text
+‎YMB V2
+‎LICENCE PERSONNALISÉE — PROPRIÉTÉ PRIVÉE
+‎
+‎Tous les fichiers, modules, contenus, scripts et éléments de ce projet "YMB v2 — Your Match Bot" sont la propriété exclusive de ODMTS SARL CAMEROUN le créateur et détenteur du dépôt GitHub.
+‎
+‎Ils sont destinés à un usage personnel ou professionnel autorisé, et ne peuvent en aucun cas être:
+‎
+‎- reproduits
+‎- modifiés
+‎- redistribués
+‎- revendus
+‎- utilisés à des fins commerciales
+‎
+‎…sans autorisation écrite préalable du propriétaire.
+‎
+‎Toute tentative de reproduction, copie, utilisation abusive, ou revente entraînera des mesures de protection légale et pourra faire l’objet de poursuites conformément aux lois en vigueur.
+‎
+‎Pour toute demande d’autorisation ou partenariat, veuillez contacter:
+‎
+‎📧 Contact: odmtssarl@gmail.com
+‎🔐 Dépôt: 
+‎
+‎© YMB v2 — Tous droits réservés.
+‎```
